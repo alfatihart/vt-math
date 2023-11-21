@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T13:18:13.517Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="7U5N2k8txkj0LGWFcq5w" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T13:19:32.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="4jCAStwMDbgDPrTzBczF" version="22.1.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1149" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -907,15 +907,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-hY63PK5owSCkXF8R_3y-119" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="1480" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="1500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-hY63PK5owSCkXF8R_3y-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-hY63PK5owSCkXF8R_3y-120" target="-hY63PK5owSCkXF8R_3y-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-hY63PK5owSCkXF8R_3y-120" value="Login" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="1560" width="120" height="60" as="geometry" />
+          <mxGeometry x="720" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-hY63PK5owSCkXF8R_3y-121" value="1. Data Scene&lt;br&gt;2. Data Hotspot&lt;br&gt;3. Logout" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-hY63PK5owSCkXF8R_3y-121" value="1. Menu Scene&lt;br&gt;2. Menu Hotspot&lt;br&gt;3. Logout" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="700" y="1660" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-hY63PK5owSCkXF8R_3y-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-hY63PK5owSCkXF8R_3y-122" target="-hY63PK5owSCkXF8R_3y-135">
