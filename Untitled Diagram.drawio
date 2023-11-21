@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T13:19:32.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="4jCAStwMDbgDPrTzBczF" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T13:25:55.987Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="vsrxmrwiXmJs08pAUPEQ" version="22.1.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1379" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1149" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -855,23 +855,23 @@
         <mxCell id="-hY63PK5owSCkXF8R_3y-100" value="Website &lt;br&gt;Virtual tour Dep. Matematika" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-hY63PK5owSCkXF8R_3y-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-hY63PK5owSCkXF8R_3y-103" target="-hY63PK5owSCkXF8R_3y-106">
+        <mxCell id="-hY63PK5owSCkXF8R_3y-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-hY63PK5owSCkXF8R_3y-103" target="-hY63PK5owSCkXF8R_3y-100">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="1750" />
-              <mxPoint x="320" y="1670" />
+              <mxPoint x="320" y="1590" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-hY63PK5owSCkXF8R_3y-117" value="Tidak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-hY63PK5owSCkXF8R_3y-113">
+        <mxCell id="-hY63PK5owSCkXF8R_3y-117" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-hY63PK5owSCkXF8R_3y-113">
           <mxGeometry x="-0.7812" y="3" relative="1" as="geometry">
-            <mxPoint y="3" as="offset" />
+            <mxPoint x="-6" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-hY63PK5owSCkXF8R_3y-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-hY63PK5owSCkXF8R_3y-103" target="-hY63PK5owSCkXF8R_3y-109">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-hY63PK5owSCkXF8R_3y-118" value="Ya" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-hY63PK5owSCkXF8R_3y-114">
+        <mxCell id="-hY63PK5owSCkXF8R_3y-118" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-hY63PK5owSCkXF8R_3y-114">
           <mxGeometry x="-0.3287" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -879,13 +879,13 @@
         <mxCell id="-hY63PK5owSCkXF8R_3y-103" value="Pilih Lokasi" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-hY63PK5owSCkXF8R_3y-104" value="Gambar &lt;br&gt;Panorama 360" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-hY63PK5owSCkXF8R_3y-104" value="Gambar &lt;br&gt;Panorama 360 &lt;br&gt;lokasi" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-hY63PK5owSCkXF8R_3y-105" value="Sekesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-hY63PK5owSCkXF8R_3y-106" value="Halaman Awal" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="-hY63PK5owSCkXF8R_3y-106" value="Navigasi Halaman Awal" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-hY63PK5owSCkXF8R_3y-109" value="Virtual Tour" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;rounded=1;glass=0;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
